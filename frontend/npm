@@ -1,0 +1,5 @@
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+      814     813     814      22944  pty0      197612 10:41:03 /usr/bin/bash
+      838       1     838      12972  cons0     197612 12:04:49 /usr/bin/ps
+      836     814     836      22472  pty0      197612 10:41:15 /c/Users/Sandeep Maurya/AppData/Local/Programs/Ollama/ollama
+      813       1     813       2320  ?         197612 10:41:03 /usr/bin/mintty
